@@ -1,4 +1,4 @@
-package com.object.smalltheater;
+package com.object.step01.smalltheater;
 
 import java.time.LocalDateTime;
 
